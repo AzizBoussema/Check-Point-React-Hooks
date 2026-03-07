@@ -1,0 +1,10 @@
+.carte{
+    margin: 5%;
+    box-shadow: 1px 1px 15px gray;
+
+}
+
+
+.btn {  /* classe à mettre sur Card.Body */
+  margin: 11%;
+}

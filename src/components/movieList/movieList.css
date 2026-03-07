@@ -1,0 +1,14 @@
+.listMovies {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 5%;
+}
+
+.cardj {
+  text-align: justify;
+  text-justify: inter-word;
+  overflow: hidden;
+  height: 150px;
+}
